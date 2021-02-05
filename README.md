@@ -1,4 +1,6 @@
 # Hello_World
 first GH repository 
 
-I'm becoming a web developer 
+My Name is Dom. 
+I am 28 years old. 
+I am an aspiring web developer. 
